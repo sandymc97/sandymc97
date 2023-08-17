@@ -1,5 +1,4 @@
-### Hi! I'm Sandy.
- Hi! I'm Sandy McGee, a meticulous full-stack software engineer with proficiency in crafting streamlined and user-friendly applications. With a robust background in education, I possess a profound understanding of accessible and user-oriented software development. I'm passionate about using this distinctive perspective to engineer projects that are not only effective but also exemplify remarkable efficiency in their intention. My goal is to build purposeful software solutions for a brighter future!
+
 <svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
